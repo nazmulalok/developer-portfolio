@@ -8,7 +8,7 @@ h1{
 .part-color{
     color: orange;
 }
-section{
+.flex-container{
     display: flex;
     margin-bottom: 150px;
 }
